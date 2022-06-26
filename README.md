@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Akash-coder23
-- 👀 I’m interested in competitive programming 
-- 🌱 I’m currently learning DSA, Android App Developement
--
+- 👋 Hi, I’m @Shakya-2001
+- 👀 competitive programming 
+- 🌱 Learning DSA
+-  SQL
 - 📫 How to reach me mail- ak520047@gmail.com
 
 <!---
