@@ -2,7 +2,7 @@
 - 👀 competitive programming 
 - 🌱 Learning DSA
 -  SQL
-- 📫 How to reach me mail- ak520047@gmail.com
+- 📫 How to reach me Email- ak520047@gmail.com
 
 <!---
 Akash-coder23/Akash-coder23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
